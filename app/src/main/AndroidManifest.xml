@@ -22,6 +22,8 @@
         <activity android:name=".Activities.AddCountry"
             android:parentActivityName=".Activities.MainActivity">
         </activity>
+
+        <activity android:name=".Activities.BucketListActivity"/>
     </application>
 
 </manifest>
