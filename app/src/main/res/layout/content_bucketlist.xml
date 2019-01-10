@@ -44,6 +44,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         android:inputType="text"
         android:hint="Fill in bucketlist item"/>
-    
 
 </android.support.constraint.ConstraintLayout>
